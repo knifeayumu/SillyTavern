@@ -2,7 +2,7 @@
     "temp": 1,
     "rep_pen": 1,
     "rep_pen_range": 0,
-    "top_p": 0,
+    "top_p": 1,
     "min_p": 0.1,
     "top_a": 0,
     "top_k": 0,
