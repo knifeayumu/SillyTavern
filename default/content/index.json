@@ -23,6 +23,10 @@
         "filename": "themes/Azure.json",
         "type": "theme"
     },
+	{
+        "filename": "themes/HobbyAnon.json",
+        "type": "theme"
+    },
     {
         "filename": "backgrounds/__transparent.png",
         "type": "background"
@@ -113,6 +117,66 @@
     },
     {
         "filename": "backgrounds/tavern day.jpg",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/cozynight.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/getrest.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/kingdom.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/market.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/noble1.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/noble2.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/ocean.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/outdoor.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/smokycity.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/summer.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/tavern.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/theredlake.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/warmtown.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/waterflow.png",
+        "type": "background"
+    },
+	{
+        "filename": "backgrounds/whitesnow.png",
         "type": "background"
     },
     {
@@ -253,6 +317,10 @@
     },
     {
         "filename": "presets/kobold/simple-proxy-for-tavern.json",
+        "type": "kobold_preset"
+    },
+    {
+        "filename": "presets/kobold/HobbyAnon.json",
         "type": "kobold_preset"
     },
     {
@@ -489,6 +557,10 @@
     },
     {
         "filename": "presets/textgen/simple-proxy-for-tavern.json",
+        "type": "textgen_preset"
+    },
+	{
+        "filename": "presets/textgen/HobbyAnon.json",
         "type": "textgen_preset"
     },
     {
