@@ -119,6 +119,18 @@
         "filename": "default_Seraphina.png",
         "type": "character"
     },
+	    {
+        "filename": "Aqua.png",
+        "type": "character"
+    },
+	    {
+        "filename": "Darkness.png",
+        "type": "character"
+    },
+	    {
+        "filename": "Megumin.png",
+        "type": "character"
+    },
     {
         "filename": "Seraphina",
         "type": "sprites"
