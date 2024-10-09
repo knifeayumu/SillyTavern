@@ -320,4 +320,4 @@ SillyTavern 会将 API 密钥保存在目录中的 `secrets.json` 文件内。
 * 中文翻译由 [@XXpE3](https://github.com/XXpE3) 完成，中文 ISSUES 可以联系 @XXpE3
 
 <!-- LINK GROUP -->
-[cover]: https://github.com/user-attachments/assets/01a6ae9a-16aa-45f2-8bff-32b5dc587e44
+[cover]: https://raw.githubusercontent.com/knifeayumu/SillyTavern/refs/heads/release/.github/SillyTavern.png

@@ -367,7 +367,7 @@ SillyTavern сохраняет ключи от ваших API в файле `sec
 
 <!-- LINK GROUP -->
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[cover]: https://github.com/user-attachments/assets/01a6ae9a-16aa-45f2-8bff-32b5dc587e44
+[cover]: https://raw.githubusercontent.com/knifeayumu/SillyTavern/refs/heads/release/.github/SillyTavern.png
 [discord-link]: https://discord.gg/sillytavern
 [discord-shield]: https://img.shields.io/discord/1100685673633153084?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [discord-shield-badge]: https://img.shields.io/discord/1100685673633153084?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge

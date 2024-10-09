@@ -375,6 +375,6 @@ GNU Affero General Public License for more details.**
 [![Contributors](https://contrib.rocks/image?repo=SillyTavern/SillyTavern)](https://github.com/SillyTavern/SillyTavern/graphs/contributors)
 
 <!-- LINK GROUP -->
-[cover]: https://github.com/user-attachments/assets/01a6ae9a-16aa-45f2-8bff-32b5dc587e44
+[cover]: https://raw.githubusercontent.com/knifeayumu/SillyTavern/refs/heads/release/.github/SillyTavern.png
 [discord-link]: https://discord.gg/sillytavern
 [discord-shield-badge]: https://img.shields.io/discord/1100685673633153084?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge

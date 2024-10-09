@@ -328,4 +328,4 @@ ST サーバを再起動すると、ユーザ名とパスワードさえ知っ�
 * [@XXpE3](https://github.com/XXpE3) による中国語翻訳、中国語 ISSUES の連絡先は @XXpE3
 
 <!-- LINK GROUP -->
-[cover]: https://github.com/user-attachments/assets/01a6ae9a-16aa-45f2-8bff-32b5dc587e44
+[cover]: https://raw.githubusercontent.com/knifeayumu/SillyTavern/refs/heads/release/.github/SillyTavern.png
