@@ -13,7 +13,7 @@ export { MODULE_NAME };
 const MODULE_NAME = 'assets';
 const DEBUG_PREFIX = '<Assets module> ';
 let previewAudio = null;
-let ASSETS_JSON_URL = 'https://raw.githubusercontent.com/SillyTavern/SillyTavern-Content/main/index.json';
+let ASSETS_JSON_URL = 'https://raw.githubusercontent.com/knifeayumu/SillyTavern-Content/main/index.json';
 
 
 // DBG
